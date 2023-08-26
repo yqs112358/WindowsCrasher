@@ -1,4 +1,4 @@
-# Fuck your windows 🤣
+# Fuck your windows 
 
 > 🖥️ a small tool to cause bluescreen on windows platform
 
