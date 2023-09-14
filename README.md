@@ -1,4 +1,4 @@
-# Fuck your windows 
+# WindowsCrasher
 
 > 🖥️ a small tool to cause bluescreen on windows platform
 
